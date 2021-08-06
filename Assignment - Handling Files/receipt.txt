@@ -1,0 +1,4 @@
+CODE			NAME			QUANTITY			SUBTOTAL
+dalgona			Dalgona			5				850.0
+americano		Americano		9				1350.0
+Total:										2200.0
